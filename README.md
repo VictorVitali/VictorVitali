@@ -2,7 +2,7 @@
 I am currently studying and looking for my first job
 
 <div style="display: inline_block"><br>
-- 🌱 I’m currently learning <img align="center" alt="HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML,   <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS and   <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- 🌱 I’m currently learning <img width="30" height="20" src="https://img.icons8.com/ultraviolet/40/sql.png" alt="sql"/> SQL <img align="center" alt="HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML, <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS and   <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 JavaScript<br>
 - 📫 How to reach me: <br>
   </div>
